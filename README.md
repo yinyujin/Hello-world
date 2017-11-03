@@ -1,4 +1,3 @@
 # Hello-world
 This is my GitHub!!!
-dgsduhdcfuhfduhf
-ddd
+This is my first GitHub!!
